@@ -1,5 +1,7 @@
 package twoSum;
 
+//returns indexes of two numbers that their sum equals to target value
+
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int currentIndex;
